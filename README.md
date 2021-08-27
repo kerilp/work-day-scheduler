@@ -6,8 +6,8 @@ Create a simple day planner that allows users to save events to time blocks on t
 
 ## Links
 
-[Live Website](https://kerilp.github.io/)
+[Live Website](https://kerilp.github.io/work-day-scheduler/)
 
-[Source Code](https://github.com/kerilp/)
+[Source Code](https://github.com/kerilp/work-day-scheduler)
 
 ![Site Screenshot](./assets/images/screenshot.png)
